@@ -1,22 +1,19 @@
-# Hi 👋, I'm Debbie Johnson
+# Hi 👋, I'm Brecken Schwartz
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently going to school at Wayne State College
 
-- 📚 I’m studing to complete my Python certifications
-
-- 🤔 I use daily .java, .cpp, .py, .sql
-
-- 👨🏻‍💻 Love programming and resolving problems
-
-- 🧠 I like to learn something new
-
-- 📫 How to reach me **dejohns2@wsc.edu**
-
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+- 📚 I’m studing to get a degree in cybersecurity and networking
 
 
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
+- 👨🏻‍💻 I love going to they gym and playing pickle ball with friends
+
+
+- 📫 How to reach me brschw07@wsc.edu
+
+
+
+I have a goal to get my degree and have fun while doing so. I love hanging out with friends and playing sports. 
 
 ### Education
 
